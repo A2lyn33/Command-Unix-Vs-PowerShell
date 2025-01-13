@@ -1,4 +1,4 @@
-# Commandes de bases Unix et PowerShell
+# 🌐 Commandes de bases Unix et PowerShell 🔤
 ---
 | **🖥️ Commande Unix/Linux** | **⚡ Commande PowerShell**        | **📘 Explications**                                                              |
 |----------------------------|----------------------------------|---------------------------------------------------------------------------------|
